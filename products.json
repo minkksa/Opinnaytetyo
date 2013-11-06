@@ -1,0 +1,10 @@
+-- tuotteiden tiedot:
+-- tuoteryhmä, jossa tuotteiden hinnat arvotaan annetuista hinnoista (1 = kaikki tuotteet maksavat alle 5 euroa, 
+-- 2 = tuotteet maksavat 5-9,90 euroa, 3 = tuotteet maksavat 10-20 euroa)
+-- jokaisessa tuoteryhmässä on x-määrä tuotteita, nyt tehty 4 tuotetta per ryhmä
+[
+	{"group":1,"objectNumber":1,"Price":"0,5","Price":"1,0","Price":"1,5","Price":"undefined","Price":"undefined"},
+	{"group":1,"objectNumber":2,"Price":"0,6","Price":"1,1","Price":"2,0","Price":"undefined","Price":"undefined"},
+	{"group":1,"objectNumber":3,"Price":"0,7","Price":"1,8","Price":"2,5","Price":"undefined","Price":"undefined"},
+	{"group":1,"objectNumber":4,"Price":"0,9","Price":"2,2","Price":"3,3","Price":"undefined","Price":"undefined"}
+]
